@@ -1,0 +1,8 @@
+version: '3'
+services:
+  backend:
+    build: ./webapp/backend
+    ports:
+     - "5000:5000"
+  redis:
+    image: "redis:latest"
