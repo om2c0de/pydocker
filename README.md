@@ -10,7 +10,7 @@
 <code>$ brew cask install docker</code>
 <p>Then run docker server using your GUI application icon.</p>
 
-**Verify docker installation**
+**Verify Docker installation**
 
 <code>$ docker --version</code><br>
 <code>$ docker-compose --version</code>
