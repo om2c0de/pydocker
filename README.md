@@ -21,4 +21,4 @@
 <code>$ cd pydocker</code><br>
 <code>$ docker-compose build --no-cache && docker-compose up</code>
 
-**Open 127.0.0.1:8000 in your browser**
+**Open <code>127.0.0.1:8000</code> in your browser**
